@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+android/app/google-services.json
+ios/GoogleService-Info.plist
+ios/Pods/
+android/.gradle/
+android/local.properties

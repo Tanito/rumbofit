@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Rumbo Fit",
+    "slug": "rumbo-fit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "rumbofit",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.rumbofit.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.rumbofit.app"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-apple-authentication",
+      "@react-native-firebase/app",
+      "@react-native-google-signin/google-signin",
+      "expo-font",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "termsUrl": "https://example.com/terminos",
+      "privacyUrl": "https://example.com/privacidad"
+    }
+  }
+}
