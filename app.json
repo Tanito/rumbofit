@@ -7,11 +7,12 @@
     "scheme": "rumbofit",
     "userInterfaceStyle": "light",
     "ios": {
-      "bundleIdentifier": "com.rumbofit.app",
+      "bundleIdentifier": "com.tanito.rumbofit",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.rumbofit.app"
+      "package": "com.tanito.rumbofit",
+      "googleServicesFile": "./google-services.json"
     },
     "plugins": [
       "expo-router",

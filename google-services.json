@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812253455899",
+    "project_id": "rumbo-fit",
+    "storage_bucket": "rumbo-fit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812253455899:android:9b78302ce20ab6bc52fabe",
+        "android_client_info": {
+          "package_name": "com.tanito.rumbofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_L05nw7As0Sr6ysN7fgL17cYG3xbOgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

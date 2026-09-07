@@ -10,3 +10,4 @@ ios/GoogleService-Info.plist
 ios/Pods/
 android/.gradle/
 android/local.properties
+android
